@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Oleksii-Bidiak/React-app/static/css/main.0684ea8e.css",
+    "main.js": "/Oleksii-Bidiak/React-app/static/js/main.b4a190c1.js",
+    "index.html": "/Oleksii-Bidiak/React-app/index.html",
+    "main.0684ea8e.css.map": "/Oleksii-Bidiak/React-app/static/css/main.0684ea8e.css.map",
+    "main.b4a190c1.js.map": "/Oleksii-Bidiak/React-app/static/js/main.b4a190c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0684ea8e.css",
+    "static/js/main.b4a190c1.js"
+  ]
+}
